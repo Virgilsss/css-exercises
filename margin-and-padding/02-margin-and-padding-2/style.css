@@ -38,12 +38,12 @@ body {
  
 
   
-  
+
 }
 
 button {
   background: rgb(235, 230, 230);
-  border: 2px solid rgb(238, 232, 232);
+  border: 1px solid rgb(238, 232, 232);
   display: block;
   margin:auto;
   

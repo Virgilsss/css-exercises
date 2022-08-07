@@ -18,8 +18,8 @@ body {
   border: 3px solid purple;
   /* CHANGE ME */
   margin-bottom: 80px;
-  margin-left: 60px;
-  margin-top: 15px;
+  margin-left: 50px;
+  margin-top: -29px;
 }
 
 .three {
@@ -27,6 +27,7 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 30px;
+  margin-left: 300px;
+  margin-top: -40px;
 }
